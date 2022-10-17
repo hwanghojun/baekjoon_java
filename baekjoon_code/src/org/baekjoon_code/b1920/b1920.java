@@ -39,9 +39,7 @@ public class b1920 {
 					System.out.println("0");
 					break;
 				}
-
 			}
 		}
 	}
-
 }
