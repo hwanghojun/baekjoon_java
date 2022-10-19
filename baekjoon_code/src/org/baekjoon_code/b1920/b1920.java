@@ -38,7 +38,7 @@ public class b1920 {
 				if (left > right) {
 					System.out.println("0");
 					break;
-				}
+				}	
 			}
 		}
 	}
